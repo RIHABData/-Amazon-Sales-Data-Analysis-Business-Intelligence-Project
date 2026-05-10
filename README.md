@@ -107,3 +107,7 @@ SQL queries were used for business intelligence analysis:
 ## Data PIPELINE
 
 ![Data Pipeline AMAZON](Amazondatapipeline.png)
+
+---
+
+
