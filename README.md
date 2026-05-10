@@ -3,6 +3,8 @@
 This project focuses on analyzing an Amazon product sales dataset using a complete Data Analytics workflow.
 The objective is to extract business insights, understand customer behavior, analyze product performance, and build interactive dashboards for decision-making.
 
+![Overview Amazon](amazon.png)
+
 The project combines:
 
 - Data Cleaning
@@ -102,3 +104,6 @@ SQL queries were used for business intelligence analysis:
 - Revenue Estimation
 - Discount Insights
   
+## Data PIPELINE
+
+![Data Pipeline AMAZON](Amazondatapipeline.png)
