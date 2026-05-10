@@ -110,4 +110,12 @@ SQL queries were used for business intelligence analysis:
 
 ---
 
+## 🚀 Live Portfolio  
+👉 **Portfolio Link **: https://rihabdata.github.io/RIHABM.github.io/
 
+---
+
+## 🤝 Contact  
+Feel free to reach out for collaborations or internship opportunities.  
+📧 Email: morafiqrihab037@gmail.com  
+🔗 LinkedIn: [![LinkedIn](https://img.icons8.com/ios-filled/35/0A66C2/linkedin.png)](https://www.linkedin.com/in/rihab-morafiq-99624b200/)
